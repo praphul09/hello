@@ -1,0 +1,5 @@
+{
+  "english":{"id":"lang001", "student_id":"Student Id", "school_name": "School Name"},
+  "kannada":{"id":"lang002", "student_id" : "ವಿದ್ಯಾರ್ಥಿ ಗುರುತಿನ ಸಂಖ್ಯೆ","school_name":"ಶಾಲೆಯ ಹೆಸರು"},
+  "hindi":{"id":"lang003", "student_id" : "छात्र पहचान संख्या", "school_name":"विद्यालय का नाम"}
+}
